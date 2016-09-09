@@ -75,13 +75,19 @@ $ git clone https://github.com/kiyomaro927/hp-practice.git
 $ cd hp-practice/sample0
 ```
 
+### Start up server
+
 Then, start up a server with Python.
 
 ```
 $ python -m SimpleHTTPServer
 ```
 
+### Check
+
 Get access to ```localhost:8000``` using your favorite browser, and make sure everything is ok.
+
+### What's next?
 
 As I was mentioned above, I prepared three sample pages(sample0/sample1/sample2).
 
@@ -104,8 +110,10 @@ $ git remote add origin https://github.com/username/username.github.io.git
 $ git push -u origin master
 ```
 
+### Check
+
 Then, get access to ```http://username.github.io/```
 
-Everyone around the world can show this page, so you have to make it very cool!
+Everyone around the world can show this page, so you have to make it cool!
 
 
