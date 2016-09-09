@@ -8,3 +8,7 @@
 
 ![sample1](image/sample1.png)
 
+## sample2
+
+![sample2](image/sample2.png)
+
