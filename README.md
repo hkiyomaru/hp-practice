@@ -83,6 +83,12 @@ Then, start up a server with Python.
 $ python -m SimpleHTTPServer
 ```
 
+If you have Python3, this will go well.
+
+```
+$ python3 -m http.server
+```
+
 ### Check
 
 Get access to ```localhost:8000``` using your favorite browser, and make sure everything is ok.
